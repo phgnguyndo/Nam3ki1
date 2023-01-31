@@ -1,0 +1,85 @@
+Do Nguyen Phuong/KQHSVK/1259/Nam/Song Lo-Vinh Phuc/BDATTT/22,2,2002,7,6,8,7,Kha
+ Tran Minh Duc/KQHSVK/7130/Nam/Thai Thuy-Thai Binh/BDATTT/25,5,2002,3,4,8,5,Yeu
+ Ha Huy Hoang/KQHSVK/7264/Nam/Cao Bang/BDATTT/14,6,2002,6,7,5.4,6.1,TB
+ Nguyen Duy Phuong/KQHSVK/7402/Nam/Hung Ha-Thai Binh/BDATTT/24,4,2002,5.2,7.1,6,6.1,TB
+ Ha Thuy Linh/KQHSVK/7532/Nu/Thanh Hoa/BDATTT/15,6,2002,7.5,8.4,9.3,8.4,Gioi
+ Quach Viet Tung/KQHSVK/3459/Nam/Ninh Binh/BDATTT/10,5,2002,6,7,9,7.3,Kha
+ Nguyen Quang Tung/KQHSVK/2819/Nam/Hoa Binh/BDATTT/12,5,2002,6,5,8,6.3,TB 
+ Pham Duc Minh/KQHSVK/898/Nam/Nam Dinh/BDATTT/6,2,2001,7,8,9,8,Gioi
+ Nguyen Anh Nam/KQHSVK/1146/Nam/Dong Anh-Ha Noi/BDATTT/8,9,2002,8,9,7,8,Gioi
+ Nguyen Duc Hieu/KQHSVK/1486/Nam/TP.Hai Duong/BDATTT/25,2,2002,5,6,4,5,Yeu
+ Duong Thanh Nam/KQHSVK/112/Nam/Nghe An/BDATTT/23,4,2001,4,6,7,5.7,Yeu
+ Le Huu Hien/KQHSVK/281/Nam/Nghe An/BDATTT/12,9,2001,7,8,4,6.3,TB
+ Nguyen Gia Hieu/KQHSVK/396/Nam/Nghe An/BDATTT/15,10,2002,6,7,4,5.7,Yeu
+ Nguyen Quang Phong/KQHSVK/272/Nam/Quang Tri/BDATTT/15,6,2002,6,7,8,7,Kha
+ Nguyen Van Nghia/KQHSVK/412/Nam/Ha Noi/BDATTT/21,3,2002,9,6,4,6.3,TB
+ Duong Quang Minh/KQHSVK/938/Nam/TP.HCM/BDATTT/30,12,2002,4,9,8,7,Kha
+ Bui Bich Phuong/KQHSVK/1324/Nu/Thanh Hoa/BDATTT/25,2,2002,8,9,8,8.3,Gioi
+ Nguyen Thi Phuong Hang/KQHSVK/1455/Nu/An Giang/BDATTT/25,5,2000,6,7,8,7,Kha
+ Sung Thi Ut/KQHSVK/94/Nu/Tuyen Quang/BDATTT/22,6,2002,5,6,7,6,TB
+ Le Thi Nhi/KQHSVK/368/Nu/Gia Lai/BDATTT/18,5,2002,6,7,9,7.3,Kha
+ Nguyen Ngoc Hieu/KQHSVK/557/Nu/Thanh Hoa/BDATTT/10,2,2001,6,7,8,7,Kha
+ Le Thi My Duyen/KQHSVK/717/Nu/Quang Ngai/BDATTT/8,4,200,4,5,8,5.7,Yeu
+ Do Nguyen Phuong/KQHSVK/2676/Nu/Thanh Hoa/ANHTTT/23,2,2001,4,5,6,5,Yeu
+ Nguyen Minh Duong/KQHSVK/3209/Nam/Yen Bai/ANHTTT/20,3,2002,8,9,10,9,Gioi
+ Nguyen Phuc Dang/KQHSVK/3330/Nam/Ha Noi/ANHTTT/30,4,2002,7,9,6,7.3,Kha
+ Pham Nguyen Tat Thang/KQHSVK/3523/Nam/Hung Yen/ANHTTT/25,6,2002,2,4,7,4.3,Yeu
+ Nguyen Minh Hieu/KQHSVK/3617/Nam/Nam Dinh/ANHTTT/4,7,2001,5,6,4,5,Yeu
+ Dinh Doan Xuan Phuong/KQHSVK/2912/Nam/Thai Binh/ANHTTT/21,2,2002,8,9,10,9,Gioi
+ Pham Cong Nguyen/KQHSVK/3101/Nam/Hai Phong/ANHTTT/18,6,2002,7,8,7.8,7.6,Kha
+ Trang Dang Khoa/KQHSVK/3290/Nam/An Giang/ANHTTT/6,3,2002,7.5,8,8,7.8,Kha
+ Nguyen Thien Nhan/KQHSVK/3708/Nam/TP.Hue/ANHTTT/20,8,2002,7,8,7,7.3,Kha
+ Vuong Anh Long/KQHSVK/4032/Nam/Ha Noi/ANHTTT/15,5,2002,5,6,7,6,TB
+ Nguyen Si Huy Hoang/KQHSVK/4208/Nam/Hung Yen/ANHTTT/5,7,2001,6,7,8,7,Kha
+ Ha Duc Ngoc/KQHSVK/4401/Nam/Yen Bai/ANHTTT/7,4,2002,7,8,7.7,7.6,Kha
+ Nguyen Minh Duc/KQHSVK/4766/Nam/Hoa Binh/ANHTTT/18,9,2002,6,7,8,7,Kha
+ Nguyen Duc Minh/KQHSVK/4920/Nam/Da Nang/ANHTTT/27,2,2002,7,8,5,6.7,TB
+ Tran Quoc Huy/KQHSVK/5139/Nam/Gia Lai/ANHTTT/26,5,2001,5,6,7,6,TB
+ Le Duc Manh/KQHSVK/5312/Nam/Hai Phong/ANHTTT/6,7,2001,5,4,9,6,TB
+ Duong Dinh Nhat Linh/KQHSVK/5540/Nam/Ha Giang/ANHTTT/6,5,2002,7,8,7.2,7.4,Kha
+ Dao Thi Kim Yen/KQHSVK/5766/Nu/Thai Nguyen/ANHTTT/20,5,2002,7,8,9,8,Gioi
+ Ly Bich Ngoc/KQHSVK/5870/Nu/Cao Bang/ANHTTT/20,2,2001,6,7,9,7.3,Kha
+ Hoang My Linh/KQHSVK/6040/Nu/An Giang/ANHTTT/20,10,2002,8,9,8,8.3,Gioi
+ Vu Le Huyen/KQHSVK/6360/Nu/Hoa Binh/ANHTTT/18,5,2002,7,8,6,7,Kha
+ Nguyen Thu Huyen/KQHSVK/6497/Nu/Binh Phuoc/ANHTTT/8,4,2002,4,5,10,6.3,TB
+ Tran Quoc Bao/KQHSVK/6749/Nam/TP.HCM/ANHTTT/22,5,2002,7,8,9.3,8.1,Gioi
+ Doan Manh Tan/KQHSVK/7604/Nam/Nghe An/ANHTTT/9,4,2002,5,6,4,5,Yeu
+ Nguyen Thu Phuong/KQHSVK/7725/Nu/Ninh Binh/ANHTTT/8,6,2002,7,6,7.8,6.9,TB
+ Nguyen Le Trung Hieu/KQHSVK/8048/Nam/Lang Son/CNTT/2,4,2002,7,8,6,7,Kha
+ Nghiem Van Tien/KQHSVK/8140/Nam/Hoa Binh/CNTT/3,2,2002,4,5,6,5,Yeu
+ Nguyen Hoang Nam/KQHSVK/8571/Nam/THai Binh/CNTT/6,8,2002,5,6,9,6.7,TB
+ Nguyen Tan Quy/KQHSVK/8682/NAM/Ben Tre/CNTT/10,9,2002,4,5,7,5.3,Yeu
+ Bui Minh Duc/KQHSVK/6841/Nam/Yen Bai/CNTT/7,3,2002,7,8,7,7.3,Kha
+ Nguyen Duc Cuong/KQHSVK/6959/Nam/Ha Noi/CNTT/26,5,2002,7,8,6,7,Kha
+ Bui Quoc Khanh/KQHSVK/433/Nam/Thai Binh/CNTT/14,7,2002,7,8,7,7.3,Kha
+ Pham Ngoc Anh Dung/KQHSVK/580/Nam/Binh Phuoc/CNTT/13,9,2002,7,7,8.1,7.4,Kha
+ Nguyen Khoi Nguyen/KQHSVK/743/Nam/Thai Binh/CNTT/15,4,2002,7.1,6.8,8.8,7.6,Kha
+ Nguyen Thanh Tung/KQHSVK/893/Nam/Da Nang/CNTT/15,6,1998,5,6,7.1,6,TB
+ Trinh Viet Tai/KQHSVK/1223/Nam/Thai Binh/CNTT/16,3,2002,3,4,6,4.3,Yeu
+ Mai Thi Hanh Trang/KQHSVK/1566/Nu/Binh Dinh/CNTT/15,5,2002,7,9,7,7.7,Kha
+ Nguyen Thi Ha Phuong/KQHSVK/1765/Nu/Thai Binh/CNTT/17,3,2002,7,8,9,8,Gioi
+ Tran Ngoc Khanh/KQHSVK/1863/Nu/Binh Dinh/CNTT/7,6,2002,7,8,7,7.3,Kha
+ Chu Manh Hung/KQHSVK/2082/Nam/Hoa Binh/PTDL/9,5,2002,4,5,8,5.7,Yeu
+ Hoang Trung Nguyen/KQHSVK/2229/Nam/Nam Dinh/PTDL/13,3,2002,8,9,8,8.3,Gioi
+ Phan Hong Tham/KQHSVK/2350/Nu/Son La/PTDL/8,3,2002,7,8,6,7,Kha
+ Bui Ngoc An/KQHSVK/2447/Nam/Lao Cai/PTDL/8,5,2002,5,8,7,6.7,TB
+ Nguyen Ba Nam/KQHSVK/2572/Nam/TP.HCM/PTDL/6,5,2002,7,6,8,7,Kha
+ Do Phan Nhat Anh/KQHSVK/2719/Nam/TP.HCM/PTDL/6,1,2002,5,6,9,6.7,TB
+ Dang Hoang Viet/KQHSVK/7028/Nam/Ha Noi/HTTT/15,8,2002,5,6,7.8,6.3,TB
+ Nguyen Ba Nam/KQHSVK/6839/Nam/Mien Nam/PTDL/6,1,2002,4,3,5,4,Yeu
+ Do Duc Phuc/KQHSVK/4756/Nam/Ben Tre/MMT-TTDL/15,4,2002,6,8.1,4,6,TB
+ Tran Quoc Dung/KQHSVK/6738/Nam/Hung Yen/MMT-TTDL/19,3,2002,6,5,4.6,5.2,Yeu
+ Vo Quoc Huy/KQHSVK/3252/Nam/Quang Ngai/HTTT/12,3,2001,6,7.2,6.4,6.5,TB
+ Nguyen Bao Ngoc/KQHSVK/3634/Nam/Phu Tho/MMT-TTDL/20,5,2002,7,8,9,8,Gioi
+ Ha Thi Ngoc Phuong/KQHSVK/3824/Nu/Phu Tho/PTDL/8,6,2002,7,8.5,6.6,7.4,Kha
+ Chu Manh Hung/KQHSVK/4767/Nam/Lang Son/PTDL/20,8,2002,4,5,6.6,5.2,Yeu
+ Tran Thanh Thoai/KQHSVK/6051/Nu/Thanh Hoa/HTTT/5,3,2002,7,8,9.5,8.2,Gioi
+ Dam Thi Thu Mai/KQHSVK/6221/Nu/Cao Bang/MMT-TTDL/18,6,2002,7,9,6.7,7.6,Kha
+ Phan Thi Hong Tham/KQHSVK/6511/Nu/Son La/PTDL/7,5,2002,6,5,7.8,6.3,TB
+ Nguyen Dang Diep Anh/KQHSVK/7008/Nu/Nam Dinh/MMT-TTDL/2,5,2002,5,6,9,6.7,TB
+ Nguyen Thuy Quynh/KQHSVK/7197/Nu/Ha Noi/HTTT/16,3,2002,7,8.6,7.5,7.7,Kha
+ Phan Dinh Minh Ngoc/KQHSVK/7357/Nu/Viet Tri-Phu Tho/HTTT/18,6,2002,9,5,7,7,Kha
+ Nguyen Quang Cuong/KQHSVK/7778/Nam/Thanh Xuan-Ha Noi/MMT-TTDL/3,4,2002,5,6,4,5,Yeu
+ Vu Van Bien/KQHSVK/8111/Nam/Yen Lac-Vinh Phuc/HTTT/25,2,2002,6,7.8,7,6.9,TB
+ Ngo Anh Vu/KQHSVK/8196/Nam/Phu Tho/HTTT/5,4,2002,6,7,8,7,Kha
+ Nguyen Manh Dung/KQHSVK/8438/Nam/Thai Binh/MMT-TTDL/6,5,2001,7,4,5,5.3,Yeu
